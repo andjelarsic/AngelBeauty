@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Angel Beauty Home</title>
+        <link>https://andjelarsic.github.io/AngelBeauty/index.html</link>
+        <description>Be the first to know about our news in our salon!</description>
+        <item>
+            <title>About us</title>
+            <link>https://andjelarsic.github.io/AngelBeauty/about.html</link>
+            <description>Who we are?</description>
+        </item>
+        <item>
+            <title>Gallery</title>
+            <link>https://andjelarsic.github.io/AngelBeauty/gallery.html</link>
+            <description>Salon pictures!</description>
+        </item>
+       <item>
+            <title>Pricing</title>
+            <link>https://andjelarsic.github.io/AngelBeauty/pricelist.html</link>
+            <description>Our pricing!</description>
+        </item>
+       <item>
+            <title>Contact</title>
+            <link>https://andjelarsic.github.io/AngelBeauty/contact.html</link>
+            <description>Get in touch!</description>
+        </item>
+       <item>
+            <title>Author</title>
+            <link>https://andjelarsic.github.io/AngelBeauty/author.html</link>
+            <description>About the author!</description>
+        </item>
+    </channel>
+</rss>
